@@ -25,3 +25,7 @@
 h4 {
   text-align: justify;
 }
+
+.bg-gray {
+  background-color: rgb(245, 245, 245);
+}
